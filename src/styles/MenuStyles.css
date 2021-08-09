@@ -1,0 +1,30 @@
+.MenuTitle {
+    color:#dfdfdf;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 2px #2e3940;
+    padding: 10px 0 10px 0;
+}
+
+.MenuTitleText{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.SecondTitleText{
+    font-size: 0.75em;
+}
+.MuneContainer {
+        position: absolute;
+}
+
+.Menu {
+    position: absolute;
+    width: 200px;
+    background-color: #273239;
+    top: 0;
+    transition: all .2s ease-in;
+}

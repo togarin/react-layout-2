@@ -1,0 +1,58 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "menu_title": "Main page",
+            "menu_subtitle": "About us",
+            "content": {
+                "header": "Lorem ipsum",
+                "short_text": "Suspendisse fringilla dui nulla, sit amet fermentum nunc consectetur eget.",
+                "full_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "image_url": "https://source.unsplash.com/WLUHO9A_xik/600x600",
+                "full_text_btn_title": "Learn more"
+            }
+        },
+        {
+            "id": 2,
+            "menu_title": "Shop",
+            "menu_subtitle": "Our products to buy",
+            "content": {
+                "header": "Products",
+                "short_text": "Suspendisse fringilla dui nulla, sit amet fermentum nunc consectetur eget. In vitae nulla a est tristique porttitor.",
+                "full_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "image_url": "https://source.unsplash.com/TYQ6fyF3Amc/600x600",
+                "full_text_btn_title": "Get more products"
+            }
+        },
+        {
+            "id": 3,
+            "menu_title": "Contacts",
+            "menu_subtitle": "Call us",
+            "content": {
+                "header": "Contacts",
+                "short_text": "Phone: 8-800-555-3555 \n Email: some_email@domain.com",
+                "full_text": "",
+                "image_url": "https://source.unsplash.com/VACrhb9JB2o/600x600",
+                "full_text_btn_title": "Learn more"
+            }
+        },
+        {
+            "id": 4,
+            "menu_title": "Thank you",
+            "menu_subtitle": "",
+            "content": {
+                "header": "Thank you",
+                "short_text": "We will be glad to see you again",
+                "full_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "image_url": "",
+                "full_text_btn_title": ""
+            }
+        },
+        {
+            "id": 5,
+            "menu_title": "Thank you",
+            "menu_subtitle": "",
+            "content": {}
+        }
+    ]
+}
